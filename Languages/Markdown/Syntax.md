@@ -15,7 +15,7 @@ Here is a cheat sheet for the syntax of Markdown. Check the legend below to see 
 ## Basic Syntax
 | Element | Markdown Syntax | Supported |
 | ------- | --------------- | --------- |
-| Heading <br>(up to H6) | `# H1`<br>`## H2`<br>`### H3`<br>`#### H4` | ✅ |
+| Heading <br>(up to H6) | `# H1`<br>`## H2`<br>`### H3`<br>`#### H4` | ⭕ (supports up to `### H3`) |
 | Bold | `**bold text**` <br> `__italicized text__` | ✅ (`__text__` underlines it) |
 | Italic | `*italicized text*` <br> `_italicized text_` | ✅ |
 | Strikethrough | `~~strikethrough text~~` | ✅ |
