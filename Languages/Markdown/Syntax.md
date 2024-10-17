@@ -1,7 +1,7 @@
 # Markdown Syntax
 Markdown is a lightweight markup language with plain-text formatting syntax. It is often used to format readme files, for writing messages in online discussion forums (like Reddit), and to create rich text using a plain text editor. Default file extension is `.md`.
 
-Here is a cheat sheet for the syntax of Markdown. Check the legend below to see which elements are supported by Discord. 
+Here is a cheat sheet for the syntax of Markdown. The legend below shows the level of support for each element in Discord. 
 
 <details>
     <summary>Legend</summary>
@@ -15,8 +15,8 @@ Here is a cheat sheet for the syntax of Markdown. Check the legend below to see 
 ## Basic Syntax
 | Element | Markdown Syntax | Supported |
 | ------- | --------------- | --------- |
-| Heading <br>(up to H6) | `# H1`<br>`## H2`<br>`### H3`<br>`#### H4` | ⭕ (supports up to `### H3`) |
-| Bold | `**bold text**` <br> `__italicized text__` | ✅ (`__text__` underlines it) |
+| Heading <br>(up to `H6`) | `# H1`<br>`## H2`<br>`### H3`<br>`#### H4` | ⭕ (supports up to `H3`) |
+| Bold | `**bold text**` <br> `__bold text__` | ✅ (`__text__` underlines it) |
 | Italic | `*italicized text*` <br> `_italicized text_` | ✅ |
 | Strikethrough | `~~strikethrough text~~` | ✅ |
 | Underline | `<u>underlined text</u>` | ❌ (use `__text__`) |
